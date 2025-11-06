@@ -1,0 +1,75 @@
+1-front page
+https://www.youtube.com/watch?v=f3uCSh6LIY0 (nav bar)
+
+1st page
+
+1-nav  leading to each html 
+I kept it simple to reach every other webpage 
+
+
+
+
+-------------------------------------------------------
+2-gallary cats breads and the meow voieses at the gallary one
+
+3rd page 
+https://www.youtube.com/watch?v=sm5hTFzSs5Y&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=3 (pics)
+https://www.youtube.com/watch?v=uof_zYxtnp0 (voice)
+1-cats pics 
+2-sounds of cats 
+3-apex charcters
+4-sound of the caracters
+5-link from about me to gallery for cats and the game 
+I used the <table> to put all info and pics and audios at the same time to give visual and sound effects to the caracters inside the table from my fav game 
+
+
+
+------------------------------------------- 
+3-contact form
+
+
+last page
+
+https://www.youtube.com/watch?v=GteJWhCikCk&t=3s (flex box )
+https://www.youtube.com/watch?v=2O8pkybH6po (contact form)
+email link 
+1-contant info in flex box 
+2-places to write info about the castumer 
+3-place to write notes 
+4-place to just send E-mail
+
+I used simple form to contact me by submitting small info needed to contact back with a resat and submit buttons 
+
+-----------------------------------
+
+4-cv 
+
+4th page
+
+1-name 
+2-education
+3-skilles
+ 
+--------------------------------------------
+5-about me 
+
+
+2nd page
+
+1-histroy of egpyt and Austria at the same time 
+I hade no other ideas to put in here so since am half Austrian and half egyption I added some info about both contryes and here I used sections beacues it makes it easy to coding scince there is to many to type most of the articals ware gnaratded by chatgpt but I assabild every thing with codes cuz of my lack of writing correctly and knolage about both contruys
+
+
+...............................................
+final look 
+we should be able to see at the first page (index.html) colomns that have icons or logos that leads to other html pages 
+and in every page we have a small nav bar with my wepsite in red and the home icone 
+and then some info about egy and aus and then a cv about me with hidden numbers and somestuff that I hope to be super good at 
+and then a small table that contains cats and pics and audios from my fav game which is apex and  my fav carracter octain and at the end s contact form to contact me if more info needed with a submit and rest buttouns
+
+
+
+
+most of my code was from the slides and a channel called Brocode copied some stuff from https://www.w3schools.com/howto/howto_css_hero_image.asp like the table and some of css codes and codepen for some css and html https://codepen.io/trending
+chatgpt was used only to explane some stuff and see what difference between my code and his to lern how to find mistakes and solve them nbut no codes were writing using chatgpt 
+
